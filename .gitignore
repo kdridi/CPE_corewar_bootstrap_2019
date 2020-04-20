@@ -1,0 +1,9 @@
+part1/step1/write-some-text
+part1/step2/write-a-number-as-text
+part1/step3/write-a-number-as-int
+part1/step4/without-padding
+part1/step5/with-padding
+part2/step1/yolotron-asm
+part2/step2/yolotron-vm
+*.o
+*.yolo
